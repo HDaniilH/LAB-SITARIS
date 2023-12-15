@@ -1,0 +1,17 @@
+<personXml>
+    <id>1</id>
+    <surname>Harai</surname>
+    <forename>Daniil</forename>
+    <patronymic>Viktorovich</patronymic>
+    <dob>2003-12-31</dob>
+    <sex>1</sex>
+    <passportSeries>HB</passportSeries>
+    <passportNumber>1234567</passportNumber>
+    <city>Minsk</city>
+    <address>Jakuba Kolasa, 28</address>
+    <phoneHome>56-2-84</phoneHome>
+    <phoneMobile>+375 (44) 548-40-49</phoneMobile>
+    <citizenship>belarusian</citizenship>
+    <dutyBound>1</dutyBound>
+    <qtype>READ</qtype>
+</personXml>

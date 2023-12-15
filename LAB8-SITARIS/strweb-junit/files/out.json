@@ -1,0 +1,16 @@
+{
+  "id": "400",
+  "surname": "Harai",
+  "forename": "Daniil",
+  "patronymic": "Viktorovich",
+  "dob": "дек. 31, 2003",
+  "sex": 1,
+  "passportSeries": "HB",
+  "passportNumber": "1234567",
+  "city": "Minsk",
+  "address": "Jakuba Kolasa, 28",
+  "phoneHome": "56-2-84",
+  "phoneMobile": "+375 (44) 538-40-49",
+  "citizenship": "belarusian",
+  "dutyBound": 1
+}
