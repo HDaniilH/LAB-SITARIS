@@ -1,0 +1,4 @@
+#Sat Dec 16 01:40:20 MSK 2023
+configuration*?=31E4C17BD514388AA6D116545DBCA79D2444B342
+module-resource*?\:checkstyle-xpath-suppressions.xml=5387AD6FD2D4C4C12C7437116794FD110DE90C1C
+module-resource*?\:checkstyle-suppressions.xml=D1FF22A03E7DA6A5BB502EAD59AF4724A4592E3B

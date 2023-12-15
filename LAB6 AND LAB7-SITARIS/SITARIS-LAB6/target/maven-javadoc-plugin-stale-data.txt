@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/keerd/.m2/repository/org/javassist/javassist/3.13.0-GA/javassist-3.13.0-GA.jar;C:/Users/keerd/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar;C:/Users/keerd/.m2/repository/javax/servlet/jsp/jsp-api/2.0/jsp-api-2.0.jar'
+-encoding
+'Cp1251'
+-protected
+-sourcepath
+'C:/Users/keerd/IdeaProjects/SITARIS-LAB6/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/keerd/IdeaProjects/SITARIS-LAB6/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SITARIS-LAB6 Maven Webapp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SITARIS-LAB6 Maven Webapp 1.0-SNAPSHOT API'
+pak
+'C:/Users/keerd/IdeaProjects/SITARIS-LAB6/src/main/java/Info.java'
+C:\Users\keerd\.m2\repository\org\javassist\javassist\3.13.0-GA\javassist-3.13.0-GA.jar = 1700924238494
+C:\Users\keerd\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar = 1695817710895
+C:\Users\keerd\.m2\repository\javax\servlet\jsp\jsp-api\2.0\jsp-api-2.0.jar = 1700943858932
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\src\main\java\Info.java = 1701880304203
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\src\main\java = 1701880304204
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\allclasses-index.html = 1702218050678
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\allpackages-index.html = 1702218050682
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\element-list = 1702218050583
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\help-doc.html = 1702218050715
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\index-all.html = 1702218050706
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\index.html = 1702218050664
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\Info.html = 1702218050580
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\jquery-ui.overrides.css = 1702218050745
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\member-search-index.js = 1702218050690
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\module-search-index.js = 1702218050684
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\overview-summary.html = 1702218050709
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\overview-tree.html = 1702218050658
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\package-search-index.js = 1702218050686
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\package-summary.html = 1702218050595
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\package-tree.html = 1702218050603
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\package-use.html = 1702218050649
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\script.js = 1702218050722
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\search.js = 1702218050726
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\serialized-form.html = 1702218050627
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\stylesheet.css = 1702218050719
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\tag-search-index.js = 1702218050692
+C:\Users\keerd\IdeaProjects\SITARIS-LAB6\target\site\apidocs\type-search-index.js = 1702218050688
